@@ -59,7 +59,7 @@ function App() {
       </header>
       <footer className="App-footer">
         <p>
-          Made with <span role="img" aria-label="heart">❤️</span> by [Your Name]
+          Echo con <span role="img" aria-label="heart">❤️</span> by [Your Name]
         </p>
       </footer>
     </div>
