@@ -54,7 +54,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Aprende de React
         </a>
       </header>
       <footer className="App-footer">
